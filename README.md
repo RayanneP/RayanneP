@@ -1,33 +1,20 @@
-## Hi,i'm Rayanne!![2ull](https://github.com/user-attachments/assets/55242831-a1c8-41ce-b6bc-6db0fa8b01e7)
-
-✨17 years
+# Rayanne Picini
 
 
-She/Her
+✨17 anos
 
 
-third-year high school student
+Ela/Dela
 
 
-Student of system development at SENAI
+⚡ Fun fact: Eu toco violoncelo e desenho no tempo livre
+
+![busycat-typing](https://github.com/user-attachments/assets/ce28a9c4-0eb5-4685-aaf4-cd831c1d677d)
 
 
-⚡ Fun fact: I play cello and draw in my free time
+📚Sou estudante do terceiro ano do Ensino Médio e curso Técnico em Desenvolvimento de Sistemas no Senai. Tenho um grande interesse em Front-End e estou sempre buscando aprender mais sobre HTML, CSS, JavaScript e seus frameworks.
+
+💻Aqui no meu GitHub, você encontrará projetos que desenvolvo para praticar, estudar e aprimorar minhas habilidades com programação.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RayanneP&show_icons=true&theme=radical)
 
-<!--
-**RayanneP/RayanneP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
